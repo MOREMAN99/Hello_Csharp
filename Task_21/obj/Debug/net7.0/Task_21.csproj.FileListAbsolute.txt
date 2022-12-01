@@ -1,0 +1,15 @@
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.csproj.AssemblyReference.cache
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.AssemblyInfoInputs.cache
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.AssemblyInfo.cs
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.csproj.CoreCompileInputs.cache
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\bin\Debug\net7.0\Task_21.exe
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\bin\Debug\net7.0\Task_21.deps.json
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\bin\Debug\net7.0\Task_21.runtimeconfig.json
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\bin\Debug\net7.0\Task_21.dll
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\bin\Debug\net7.0\Task_21.pdb
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.dll
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\refint\Task_21.dll
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.pdb
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\Task_21.genruntimeconfig.cache
+C:\Csharp_Hometask3\Hello_Csharp\Task_21\obj\Debug\net7.0\ref\Task_21.dll
